@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045078397689",
+    "project_id": "freeflixbj",
+    "storage_bucket": "freeflixbj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045078397689:android:97c818ededcbb2ea780828",
+        "android_client_info": {
+          "package_name": "com.Mstudio.djoli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNO7ET6XSvbYbw_iQWT6emJMZyduZIHkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
