@@ -38,13 +38,13 @@ Djoli est une application qui permet aux utilisateurs de naviguer facilement à 
 1. **Cloner le dépôt** :
 
     ```bash
-    git clone https://github.com/votre-utilisateur/djoli.git
+    git clone https://github.com/Sylvere-bamenou/djoli.git
     cd djoli
     ```
 
 2. **Ouvrir dans FlutterFlow** :
     - Importez le projet dans FlutterFlow en suivant les instructions de la documentation de FlutterFlow.
-    - Assurez-vous que toutes les configurations Firebase (si utilisées) sont correctement intégrées.
+    - Assurez-vous que toutes les configurations Firebase sont correctement intégrées.
 
 3. **Exécuter le projet** :
 
